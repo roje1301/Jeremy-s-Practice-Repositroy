@@ -1,2 +1,2 @@
-# Jeremy-s-Practice-Repositroy
+# Jeremy-s-Practice-Repository
 First one!
